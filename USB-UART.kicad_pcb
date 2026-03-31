@@ -70,9 +70,9 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 4)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -3729,7 +3729,7 @@
 			(at 4.385 -2.27 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e22038c3-f989-467f-bea9-c533e9a628f6")
+			(uuid "475d2021-5719-4c94-9382-4ec3064b0e03")
 			(effects
 				(font
 					(size 1 1)
@@ -3741,7 +3741,7 @@
 			(at 4.385 14.97 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35be2492-323e-4df5-99a0-6289a9907698")
+			(uuid "cd9132fa-3ae0-4fa4-8774-eb0c00f7b2a0")
 			(effects
 				(font
 					(size 1 1)
@@ -3753,7 +3753,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d941587-3fcd-4c00-a6e9-40ba2e97d8df")
+			(uuid "b076b25f-3961-4faf-9e88-978f0f5813f8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3765,7 +3765,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14b8b625-aabf-49b3-8b48-e960e0e88191")
+			(uuid "5658af08-1ab1-4ef0-b97e-f880358c37e3")
 			(effects
 				(font
 					(size 1.27 1.27)
