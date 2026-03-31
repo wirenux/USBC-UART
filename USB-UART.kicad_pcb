@@ -8775,6 +8775,19 @@
 			)
 		)
 	)
+	(gr_text "https://github.com/wirenux/USBC-UART"
+		(at 135 95 0)
+		(layer "B.SilkS")
+		(uuid "c76888af-9726-41c9-a388-12a4f2314702")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 112.15 83)
 		(end 111.769 83.381)
