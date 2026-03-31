@@ -25,6 +25,6 @@ For the device to work with **USB-C to USB-C cables**, you must add two resistor
 
 ---
 
-## 📜 License
+## License
 
 This project is under [MIT](./LICENSE) license.
